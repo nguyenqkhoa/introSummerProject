@@ -1,0 +1,15 @@
+
+.root {
+    -fx-background: darksalmon ;
+    -fx-background-image: url("BackgroundEnd.png");
+    -fx-background-size:1200,700 ;
+    -fx-font: 22px Calibri;
+    -fx-background-repeat: no-repeat;
+-fx-background-position: center center;
+-fx-background-size: cover;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-size : 22px;
+}
